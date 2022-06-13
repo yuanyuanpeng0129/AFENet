@@ -1,2 +1,2 @@
 # AFENet
-# The code will be released when the paper is published.
+This paper is publicly available at (https://doi.org/10.3389/fnins.2022.836327).
